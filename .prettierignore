@@ -1,0 +1,5 @@
+src/components
+src/i18n
+
+pnpm-lock.yaml
+routeTree.gen.ts
